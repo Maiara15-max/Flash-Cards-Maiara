@@ -15,7 +15,25 @@ criaCartao.innerHTML =
             </div>
             </div>
 
+            let respostaEstaVisivel = Falce
+
+            function viraCartao(){
+                respotaEStaVisivel=!respostaEstaVisivel
+
+
+            }
+
+
+
+
+
+
+
+
+
             container.appendChild(cartao)
+
+
         
 
 
