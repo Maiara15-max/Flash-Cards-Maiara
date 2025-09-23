@@ -1,10 +1,4 @@
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
-)
-
-criaCartao(
     'História',
     'Quantos anos demorou para construir a torre de Paris?',
     '2 anos, 2 meses e 5 dias'
