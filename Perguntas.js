@@ -49,7 +49,7 @@ criaCartao(
 criaCartao(
     'química',
     'Quanto tempo o vidro demora para se decompor ?',
-    'tempo indeterminado'
+    'Tempo indeterminado'
 )
 
 criaCartao(
