@@ -5,55 +5,55 @@ criaCartao(
 )
 
 criaCartao(
-    'brasileira',
+    'Brasileira',
     'De onde é a invenção do chuveiro elétrico?',
     'Brasil',
 )
 
 criaCartao(
-    'matematica',
+    'Matematica',
     'Quantas casas decimais tem o número pi ?',
     'Infinitas',
 )
 
 criaCartao(
-    'geografia',
+    'Geografia',
     'Qual a montanha mais alta do Brasil ?',
     'Pico da Neblina',
 )
 
 criaCartao(
-    'matematica',
+    'Matematica',
     'Qual a velocidade da luz ?',
     '299 792 458 metros por segundo (m/s)',
 )
 
 criaCartao(
-    'português',
+    'Português',
     'Quem é o autor de “O Príncipe”?,',
     'Maquiavel',
 )
 
 criaCartao(
-    'história',
+    'História',
     'Quais as maiores pandemias da história ?,',
     'Peste negra e covid-19',
 )
 
 criaCartao(
-    'ciências',
+    'Ciências',
     'Quantos braços tem um polvo ?',
     '8',
 )
 
 criaCartao(
-    'química',
+    'Química',
     'Quanto tempo o vidro demora para se decompor ?',
     'Tempo indeterminado'
 )
 
 criaCartao(
-    'fíica',
+    'Fíica',
     'Quem inventou a lâmpada ?',
     'Thomas Edison' ,
 )
