@@ -98,7 +98,7 @@ footer p{
     font-size: 1rem;
     margin-top: 0.5rem;
 
-@media (max-width: 560px) {
+@media (max-width: 520px) {
     body{
         background-color: rgb(255, 251, 0);
 }
