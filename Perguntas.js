@@ -53,7 +53,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Fíica',
+    'Física',
     'Quem inventou a lâmpada ?',
     'Thomas Edison' ,
 )
