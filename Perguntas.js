@@ -49,7 +49,7 @@ criaCartao(
 criaCartao(
     'Química',
     'Quanto tempo o vidro demora para se decompor ?',
-    'Tempo indeterminado'
+    'entre 4 mil e 1 milhão de anos'
 )
 
 criaCartao(
